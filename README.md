@@ -29,7 +29,7 @@ education: MBA (Finance & Operations) | B.Tech (ECE)
 
 <h3><img src="https://img.shields.io/badge/-What_I_Build-2E75B6?style=flat-square" height="24" /></h3>
 
-I hold more than a decade of expeirence in AI and I architect and ship **production-grade AI systems** from custom LLM training pipelines to multi-agent orchestration platforms serving global enterprises. I don't just build models; I build the **platforms, pipelines, and operational frameworks** that make AI work at scale.
+I hold more than a decade of experience in AI and I architect and ship **production-grade AI systems** from custom LLM training pipelines to multi-agent orchestration platforms serving global enterprises. I don't just build models; I build the **platforms, pipelines, and operational frameworks** that make AI work at scale.
 
 **Two flagship platforms define my career:**
 
